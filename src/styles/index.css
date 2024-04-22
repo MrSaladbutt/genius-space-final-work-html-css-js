@@ -1,3 +1,10 @@
+@font-face {
+  font-display: swap;
+  font-family: 'Bluu Next Cyrillic';
+  font-weight: 700;
+  src: url('../fonts/Bluu\ Next\ Cyrillic.woff2') format('woff2');
+}
+
 :root {
   --color-title-yellow: #fabf59;
   --color-dark: #1d1d1d;
