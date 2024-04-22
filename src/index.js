@@ -7,7 +7,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Router>
+    <Router basename="/genius-space-final-work-html-css-js">
       <App />
     </Router>
   </React.StrictMode>,
