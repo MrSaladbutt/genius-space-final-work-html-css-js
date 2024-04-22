@@ -7,22 +7,10 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route
-          path="/genius-space-final-work-html-css-js/build/"
-          element={<MainPage />}
-        />
-        <Route
-          path="/genius-space-final-work-html-css-js/build//students"
-          element={<StudentsPage />}
-        />
-        <Route
-          path="/genius-space-final-work-html-css-js/build//staff"
-          element={<StaffPage />}
-        />
-        <Route
-          path="/genius-space-final-work-html-css-js/build//characters"
-          element={<CharactersInHouse />}
-        />
+        <Route path="/build/" element={<MainPage />} />
+        <Route path="/build//students" element={<StudentsPage />} />
+        <Route path="/build//staff" element={<StaffPage />} />
+        <Route path="/build//characters" element={<CharactersInHouse />} />
       </Routes>
     </div>
   );
