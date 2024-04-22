@@ -1,7 +1,7 @@
 import HogwartsStudents from '../../images/hogwarts-students.png';
 import HogwartsStaff from '../../images/hogwarts-staff.png';
 import CharacterInHouse from '../../images/characters-in-house.png';
-import './../MainPageCards/mainPageCards.css';
+import './mainPageCards.css';
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 function MainPageCards() {

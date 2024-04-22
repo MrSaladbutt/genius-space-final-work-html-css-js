@@ -1,4 +1,4 @@
-import './../MainPage/mainPage.css';
+import './mainPage.css';
 import MainPageCards from './../MainPageCards/MainPageCards';
 import { useState } from 'react';
 
