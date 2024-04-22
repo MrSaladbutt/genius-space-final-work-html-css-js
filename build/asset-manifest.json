@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.87fe30bf.css",
+    "main.css": "/static/css/main.109823b6.css",
     "main.js": "/static/js/main.284fe901.js",
     "static/media/main-bcg.png": "/static/media/main-bcg.8c462471c2d57aa0a337.png",
     "static/media/hogwarts-students.png": "/static/media/hogwarts-students.6881340584faa08b8211.png",
     "static/media/characters-in-house.png": "/static/media/characters-in-house.1624d7b3d029fe70dc4c.png",
     "static/media/hogwarts-staff.png": "/static/media/hogwarts-staff.255e6d896790676e7816.png",
-    "static/media/Bluu Next Cyrillic.woff2": "/static/media/Bluu Next Cyrillic.b4472fd1e27c7d9d9609.woff2",
+    "static/media/BluuNextCyrillic.woff2": "/static/media/BluuNextCyrillic.b4472fd1e27c7d9d9609.woff2",
     "static/media/icons.svg": "/static/media/icons.df0184f771dec66015131d64619255c5.svg",
     "index.html": "/index.html",
-    "main.87fe30bf.css.map": "/static/css/main.87fe30bf.css.map",
+    "main.109823b6.css.map": "/static/css/main.109823b6.css.map",
     "main.284fe901.js.map": "/static/js/main.284fe901.js.map"
   },
   "entrypoints": [
-    "static/css/main.87fe30bf.css",
+    "static/css/main.109823b6.css",
     "static/js/main.284fe901.js"
   ]
 }
