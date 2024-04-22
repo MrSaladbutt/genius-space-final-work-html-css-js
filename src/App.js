@@ -7,10 +7,10 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path="/build/" element={<MainPage />} />
-        <Route path="/build//students" element={<StudentsPage />} />
-        <Route path="/build//staff" element={<StaffPage />} />
-        <Route path="/build//characters" element={<CharactersInHouse />} />
+        <Route path="/" element={<MainPage />} />
+        <Route path="/students" element={<StudentsPage />} />
+        <Route path="/staff" element={<StaffPage />} />
+        <Route path="/characters" element={<CharactersInHouse />} />
       </Routes>
     </div>
   );
