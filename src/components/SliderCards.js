@@ -2,7 +2,7 @@ import './sliderCards.css';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, Scrollbar, A11y, Grid } from 'swiper/modules';
 import { useState } from 'react';
-import icons from '../images/icons.svg';
+import icons from '../../src/images/icons.svg';
 import { Link } from 'react-router-dom';
 
 import 'swiper/css';
