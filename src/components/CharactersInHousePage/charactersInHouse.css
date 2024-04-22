@@ -1,0 +1,37 @@
+.characters-filter {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 50px;
+  border: 1px solid var(--color-grey);
+  border-radius: 100px;
+  min-height: 60px;
+}
+
+.filter-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Bluu Next Cyrillic', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 130%;
+  letter-spacing: 0.01em;
+  color: var(--color-light);
+  text-transform: uppercase;
+  padding: 10px 78px;
+  transition: all 0.2s;
+  border-radius: 100px;
+  min-height: 60px;
+}
+
+.filter-buttons:hover {
+  color: var(--color-dark);
+  background-color: var(--color-btn-yellow);
+}
+
+.filter-buttons img {
+  width: 35px;
+  height: 35px;
+  margin-right: 7.5px;
+}
