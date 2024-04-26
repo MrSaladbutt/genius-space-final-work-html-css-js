@@ -41,13 +41,17 @@ function SliderCards({ data }) {
             fill: 'row',
           }}
           breakpoints={{
-            768: {
+            480: {
               slidesPerView: 2,
-              spaceBetween: 10,
+              spaceBetween: 16,
+            },
+            768: {
+              slidesPerView: 2.5,
+              spaceBetween: 20,
             },
 
-            1288: {
-              slidesPerView: 4,
+            1280: {
+              slidesPerView: 3.5,
               spaceBetween: 20,
             },
           }}
@@ -162,10 +166,12 @@ function SliderCards({ data }) {
         </button>
       </div>
       <Link to="/" className="to-main-menu-btn">
-        <svg className="svg" width="24" height="14">
-          <use xlinkHref={`${icons}#icon-card-arrow`} />
-        </svg>{' '}
-        До головної сторінки
+        <div className="to-main-menu-content">
+          <svg className="svg" width="24" height="14">
+            <use xlinkHref={`${icons}#icon-card-arrow`} />
+          </svg>
+          <span>До головної сторінки</span>
+        </div>
       </Link>
     </>
   );

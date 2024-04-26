@@ -37,6 +37,7 @@ function CharactersInHouse() {
           Персонажі в <br />
           певному будинку
         </h2>
+
         <div className="characters-filter">
           <button className="filter-buttons" onClick={gryffindorHandler}>
             <img src={gryffindor} alt="gryffindor" /> Gryffindor

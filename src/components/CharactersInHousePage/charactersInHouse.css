@@ -1,11 +1,10 @@
 .characters-filter {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   margin-bottom: 50px;
   border: 1px solid var(--color-grey);
   border-radius: 100px;
-  min-height: 60px;
 }
 
 .filter-buttons {
@@ -13,16 +12,35 @@
   justify-content: center;
   align-items: center;
   font-family: 'Bluu Next Cyrillic', sans-serif;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 130%;
-  letter-spacing: 0.01em;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1;
   color: var(--color-light);
   text-transform: uppercase;
-  padding: 10px 78px;
+  padding: 6px 10px;
   transition: all 0.2s;
-  border-radius: 100px;
-  min-height: 60px;
+  border-radius: 40px;
+}
+
+@media screen and (min-width: 768px) {
+  .filter-buttons {
+    font-family: 'Bluu Next Cyrillic', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 130%;
+    letter-spacing: 0.01em;
+    color: var(--color-light);
+    text-transform: uppercase;
+    padding: 10px 20px;
+    transition: all 0.2s;
+    border-radius: 100px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .filter-buttons {
+    padding: 10px 76px;
+  }
 }
 
 .filter-buttons:hover {
@@ -31,7 +49,14 @@
 }
 
 .filter-buttons img {
-  width: 35px;
-  height: 35px;
-  margin-right: 7.5px;
+  display: none;
+}
+
+@media screen and (min-width: 480px) {
+  .filter-buttons img {
+    display: block;
+    width: 35px;
+    height: 35px;
+    margin-right: 7.5px;
+  }
 }

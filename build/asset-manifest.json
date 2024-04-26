@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/genius-space-final-work-html-css-js/build/static/css/main.00f55214.css",
-    "main.js": "/genius-space-final-work-html-css-js/build/static/js/main.8e5da472.js",
+    "main.css": "/genius-space-final-work-html-css-js/build/static/css/main.4e2dd601.css",
+    "main.js": "/genius-space-final-work-html-css-js/build/static/js/main.4892667a.js",
     "static/media/main-bcg.png": "/genius-space-final-work-html-css-js/build/static/media/main-bcg.8c462471c2d57aa0a337.png",
     "static/media/hogwarts-students.png": "/genius-space-final-work-html-css-js/build/static/media/hogwarts-students.6881340584faa08b8211.png",
     "static/media/characters-in-house.png": "/genius-space-final-work-html-css-js/build/static/media/characters-in-house.1624d7b3d029fe70dc4c.png",
@@ -9,11 +9,11 @@
     "static/media/BluuNextCyrillic.woff2": "/genius-space-final-work-html-css-js/build/static/media/BluuNextCyrillic.b4472fd1e27c7d9d9609.woff2",
     "static/media/icons.svg": "/genius-space-final-work-html-css-js/build/static/media/icons.df0184f771dec66015131d64619255c5.svg",
     "index.html": "/genius-space-final-work-html-css-js/build/index.html",
-    "main.00f55214.css.map": "/genius-space-final-work-html-css-js/build/static/css/main.00f55214.css.map",
-    "main.8e5da472.js.map": "/genius-space-final-work-html-css-js/build/static/js/main.8e5da472.js.map"
+    "main.4e2dd601.css.map": "/genius-space-final-work-html-css-js/build/static/css/main.4e2dd601.css.map",
+    "main.4892667a.js.map": "/genius-space-final-work-html-css-js/build/static/js/main.4892667a.js.map"
   },
   "entrypoints": [
-    "static/css/main.00f55214.css",
-    "static/js/main.8e5da472.js"
+    "static/css/main.4e2dd601.css",
+    "static/js/main.4892667a.js"
   ]
 }
