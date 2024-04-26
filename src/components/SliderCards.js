@@ -51,7 +51,7 @@ function SliderCards({ data }) {
             },
 
             1280: {
-              slidesPerView: 3.5,
+              slidesPerView: 4,
               spaceBetween: 20,
             },
           }}

@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/genius-space-final-work-html-css-js/build/static/css/main.4e2dd601.css",
-    "main.js": "/genius-space-final-work-html-css-js/build/static/js/main.4892667a.js",
-    "static/media/main-bcg.png": "/genius-space-final-work-html-css-js/build/static/media/main-bcg.8c462471c2d57aa0a337.png",
-    "static/media/hogwarts-students.png": "/genius-space-final-work-html-css-js/build/static/media/hogwarts-students.6881340584faa08b8211.png",
-    "static/media/characters-in-house.png": "/genius-space-final-work-html-css-js/build/static/media/characters-in-house.1624d7b3d029fe70dc4c.png",
-    "static/media/hogwarts-staff.png": "/genius-space-final-work-html-css-js/build/static/media/hogwarts-staff.255e6d896790676e7816.png",
+    "main.css": "/genius-space-final-work-html-css-js/build/static/css/main.179373f2.css",
+    "main.js": "/genius-space-final-work-html-css-js/build/static/js/main.d70f7526.js",
+    "static/media/main-bcg.jpg": "/genius-space-final-work-html-css-js/build/static/media/main-bcg.280337805c9661d9918b.jpg",
+    "static/media/hogwarts-students.jpg": "/genius-space-final-work-html-css-js/build/static/media/hogwarts-students.d0c0473e0a97e9d8b044.jpg",
+    "static/media/characters-in-house.jpg": "/genius-space-final-work-html-css-js/build/static/media/characters-in-house.810df15ecd8a42f445fe.jpg",
     "static/media/BluuNextCyrillic.woff2": "/genius-space-final-work-html-css-js/build/static/media/BluuNextCyrillic.b4472fd1e27c7d9d9609.woff2",
+    "static/media/hogwarts-staff.jpg": "/genius-space-final-work-html-css-js/build/static/media/hogwarts-staff.494a1325fbd4ddeeeb38.jpg",
     "static/media/icons.svg": "/genius-space-final-work-html-css-js/build/static/media/icons.df0184f771dec66015131d64619255c5.svg",
     "index.html": "/genius-space-final-work-html-css-js/build/index.html",
-    "main.4e2dd601.css.map": "/genius-space-final-work-html-css-js/build/static/css/main.4e2dd601.css.map",
-    "main.4892667a.js.map": "/genius-space-final-work-html-css-js/build/static/js/main.4892667a.js.map"
+    "main.179373f2.css.map": "/genius-space-final-work-html-css-js/build/static/css/main.179373f2.css.map",
+    "main.d70f7526.js.map": "/genius-space-final-work-html-css-js/build/static/js/main.d70f7526.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e2dd601.css",
-    "static/js/main.4892667a.js"
+    "static/css/main.179373f2.css",
+    "static/js/main.d70f7526.js"
   ]
 }
